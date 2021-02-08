@@ -77,12 +77,12 @@
                 </ul>
                 <ul class="list-unstyled bottom-menu">
                     <li>
-                        <a href="https://cerapoda.com/zuzu/sample-4_new.php" target="_blank">
+                        <a href="sample-4_new.php" target="_blank">
                             <img src="img/graph.svg">
                         </a>
                     </li>
                     <li>
-                        <a href="https://cerapoda.com/zuzu/sample-6.php" target="_blank">
+                        <a href="sample-6.php" target="_blank">
                             <img src="img/setting.svg">
                         </a>
                     </li>
@@ -113,27 +113,27 @@
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="https://cerapoda.com/zuzu/sample-1.php">
+                                    <a href="sample-1.php">
                                         <span class="d-inline-block">Intro to Cocktails (Linear)</span>
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="https://cerapoda.com/zuzu/sample-2.php">
+                                    <a href="sample-2.php">
                                         <span class="d-inline-block">Intro to Cocktails</span>
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="https://cerapoda.com/zuzu/sample-3.php">
+                                    <a href="sample-3.php">
                                         <span class="d-inline-block">Intro to Cocktails (Deep)</span>
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="https://cerapoda.com/zuzu/sample-4.php">
+                                    <a href="sample-4.php">
                                         <span class="d-inline-block">What is alcohol?</span>
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="https://cerapoda.com/zuzu/sample-5.php">
+                                    <a href="sample-5.php">
                                         <span class="d-inline-block">Bartendering Main</span>
                                     </a>
                                 </li>
