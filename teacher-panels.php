@@ -985,12 +985,12 @@ editor.start();
                 }
         </script> -->
     <script src="js/vendor/jquery-3.3.1.min.js"></script>
+     <script src="js/vendor/jquery.barrating.min.js"></script>
     <script src="js/vendor/bootstrap.bundle.min.js"></script>
     <script src="js/vendor/perfect-scrollbar.min.js"></script>
     <script src="js/vendor/bootstrap-notify.min.js"></script>
     <script src="js/vendor/mousetrap.min.js"></script>
     <script src="js/vendor/progressbar.min.js"></script>
-     <script src="js/vendor/jquery.barrating.min.js"></script>
     <script src="js/vendor/ckeditor5-build-classic/ckeditor.js"></script>
     <script src="js/dore.script.js"></script>
     <script src="js/scripts.js"></script>
