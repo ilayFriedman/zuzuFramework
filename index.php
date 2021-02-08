@@ -108,7 +108,7 @@
                         <div id="cources" class="collapse">
                             <ul class="list-unstyled inner-level-menu">
                                 <li>
-                                    <a href="https://cerapoda.com/zuzu/index.php">
+                                    <a href="index.php">
                                         <span class="d-inline-block">Home </span>
                                     </a>
                                 </li>
