@@ -902,8 +902,7 @@
             </div>
         </div>
     </main>
-    <script src="js/drawflow.min.js"></script>
-    <script src="js/jquery.min.js"></script>
+    <!-- <script src="js/jquery.min.js"></script> -->
     <script src="js/vendor/jquery-3.3.1.min.js"></script>
     <script src="js/vendor/jquery.barrating.min.js"></script>
     <script src="js/vendor/bootstrap.bundle.min.js"></script>
@@ -913,6 +912,7 @@
     <script src="js/vendor/quill.min.js"></script>
     <script src="js/dore.script.js"></script>
     <script src="js/scripts.js"></script>
+    <script src="js/drawflow.min.js"></script>
     <script src="js/vendor/nouislider.min.js"></script>
     <div class="modal fade modal-right sidebarpopup" id="exampleModalRight" tabindex="-1" role="dialog"
         aria-labelledby="exampleModalRight" aria-hidden="false" data-backdrop="static" data-keyboard="false">
