@@ -499,63 +499,63 @@
                             <ul class="list-unstyled inner-level-menu links-graph">
                                 <li>
                                     <a href="#">
-                                        <i><img src="https://cerapoda.com/zuzu/img/chains.png"
+                                        <i><img src="img/chains.png"
                                                 style="padding-right: 0px;"></i> <span class="d-inline-block"
                                             style="height: 22px;font-size: 16px">What is alcohol</span>
                                     </a>
                                 </li>
                                 <li>
                                     <a href="#">
-                                        <i><img src="https://cerapoda.com/zuzu/img/021-clapperboard -GREE.png"
+                                        <i><img src="img/021-clapperboard -GREE.png"
                                                 style="padding-right: 0px;"></i> <span class="d-inline-block"
                                             style="height: 22px;font-size: 16px">Intro to spirits</span>
                                     </a>
                                 </li>
                                 <li>
                                     <a href="#">
-                                        <i><img src="https://cerapoda.com/zuzu/img/060-signing - OR.png"
+                                        <i><img src="img/060-signing - OR.png"
                                                 style="padding-right: 0px;"></i> <span class="d-inline-block"
                                             style="height: 22px;font-size: 16px">How are spirits are Make</span>
                                     </a>
                                 </li>
                                 <li>
                                     <a href="#">
-                                        <i><img src="https://cerapoda.com/zuzu/img/021-clapperboard -GREE.png"
+                                        <i><img src="img/021-clapperboard -GREE.png"
                                                 style="padding-right: 0px;"></i> <span class="d-inline-block"
                                             style="height: 22px;font-size: 16px">Video intro to spirits</span>
                                     </a>
                                 </li>
                                 <li>
                                     <a href="#">
-                                        <i><img src="https://cerapoda.com/zuzu/img/060-signing - OR.png"
+                                        <i><img src="img/060-signing - OR.png"
                                                 style="padding-right: 0px;"></i> <span class="d-inline-block"
                                             style="height: 22px;font-size: 16px">What is tequila</span>
                                     </a>
                                 </li>
                                 <li>
                                     <a href="#">
-                                        <i><img src="https://cerapoda.com/zuzu/img/021-clapperboard BL.png"
+                                        <i><img src="img/021-clapperboard BL.png"
                                                 style="padding-right: 0px;"></i> <span class="d-inline-block"
                                             style="height: 22px;font-size: 16px">Mixing juices</span>
                                     </a>
                                 </li>
                                 <li>
                                     <a href="#">
-                                        <i><img src="https://cerapoda.com/zuzu/img/060-signing - OR.png"
+                                        <i><img src="img/060-signing - OR.png"
                                                 style="padding-right: 0px;"></i> <span class="d-inline-block"
                                             style="height: 22px;font-size: 16px">What is tequila</span>
                                     </a>
                                 </li>
                                 <li>
                                     <a href="#">
-                                        <i><img src="https://cerapoda.com/zuzu/img/021-clapperboard BL.png"
+                                        <i><img src="img/021-clapperboard BL.png"
                                                 style="padding-right: 0px;"></i> <span class="d-inline-block"
                                             style="height: 22px;font-size: 16px">Intro to spirits</span>
                                     </a>
                                 </li>
                                 <li>
                                     <a href="#">
-                                        <i><img src="https://cerapoda.com/zuzu/img/060-signing - BLU.png"
+                                        <i><img src="img/060-signing - BLU.png"
                                                 style="padding-right: 0px;"></i> <span class="d-inline-block"
                                             style="height: 22px;font-size: 16px">Exercise Tequila sunrise</span>
                                     </a>
@@ -902,24 +902,14 @@
             </div>
         </div>
     </main>
-    <!-- <script src="js/jquery.min.js"></script> -->
-    <!-- <script src="js/vendor/jquery-3.3.1.min.js"></script>
-    <script src="js/vendor/jquery.barrating.min.js"></script>
-    <script src="js/vendor/bootstrap.bundle.min.js"></script>
-    <script src="js/vendor/perfect-scrollbar.min.js"></script>
-    <script src="js/vendor/bootstrap-notify.min.js"></script>
-    <script src="js/vendor/mousetrap.min.js"></script>
-    <script src="js/vendor/quill.min.js"></script>
-    <script src="js/dore.script.js"></script>
-    <script src="js/scripts.js"></script>
     <script src="js/drawflow.min.js"></script>
-    <script src="js/vendor/nouislider.min.js"></script> -->
+    <script src="js/vendor/jquery-3.3.1.min.js"></script>
     <script src="js/vendor/bootstrap.bundle.min.js"></script>
     <script src="js/vendor/perfect-scrollbar.min.js"></script>
     <script src="js/vendor/bootstrap-notify.min.js"></script>
     <script src="js/vendor/mousetrap.min.js"></script>
     <script src="js/vendor/jquery.barrating.min.js"></script>
-    <script src="js/vendor/quill.min.js"></script>
+   <script src="js/vendor/quill.min.js"></script>
     <script src="js/dore.script.js"></script>
     <script src="js/scripts.js"></script>
     <script src="js/vendor/nouislider.min.js"></script>
@@ -933,7 +923,7 @@
                         <ul class="list-unstyled list-inline">
                             <li>
                                 <div class="glyph">
-                                    <img src="https://cerapoda.com/zuzu/img/clapperboard.png"
+                                    <img src="img/clapperboard.png"
                                         style="padding-right: 0px;width:40px;height:40px">
                                     <div class="class-name" contentEditable="true" style="font-weight:600">Video</div>
 
@@ -956,79 +946,79 @@
                                     Choose Unit</div>
                                 <select class="vodiapicker">
                                     <option value="en" class="test"
-                                        data-green="https://cerapoda.com/zuzu/img/034-reward - GREE.png"
-                                        data-blue="https://cerapoda.com/zuzu/img/034-reward - BL.png"
-                                        data-red="https://cerapoda.com/zuzu/img/034-reward - RED.png"
-                                        data-orange="https://cerapoda.com/zuzu/img/034-reward - OR.png"
-                                        data-black="https://cerapoda.com/zuzu/img/reward.png"
-                                        data-thumbnail="https://cerapoda.com/zuzu/img/reward.png"></option>
+                                        data-green="img/034-reward - GREE.png"
+                                        data-blue="img/034-reward - BL.png"
+                                        data-red="img/034-reward - RED.png"
+                                        data-orange="img/034-reward - OR.png"
+                                        data-black="img/reward.png"
+                                        data-thumbnail="img/reward.png"></option>
                                     <option value="uk"
-                                        data-green="https://cerapoda.com/zuzu/img/040-open-book - GREE.png"
-                                        data-red="https://cerapoda.com/zuzu/img/040-open-book - RED.png"
-                                        data-blue="https://cerapoda.com/zuzu/img/040-open-book - BL.png"
-                                        data-orange="https://cerapoda.com/zuzu/img/040-open-book - OR.png"
-                                        data-black="https://cerapoda.com/zuzu/img/open-book.png"
-                                        data-thumbnail="https://cerapoda.com/zuzu/img/open-book.png"
+                                        data-green="img/040-open-book - GREE.png"
+                                        data-red="img/040-open-book - RED.png"
+                                        data-blue="img/040-open-book - BL.png"
+                                        data-orange="img/040-open-book - OR.png"
+                                        data-black="img/open-book.png"
+                                        data-thumbnail="img/open-book.png"
                                         class="rounded-circle"></option>
-                                    <option value="si" data-green="https://cerapoda.com/zuzu/img/060-signing - GREE.png"
-                                        data-red="https://cerapoda.com/zuzu/img/060-signing - RED.png"
-                                        data-blue="https://cerapoda.com/zuzu/img/060-signing - BLU.png"
-                                        data-orange="https://cerapoda.com/zuzu/img/060-signing - OR.png"
-                                        data-black="https://cerapoda.com/zuzu/img/signing.png"
-                                        data-thumbnail="https://cerapoda.com/zuzu/img/signing.png"
+                                    <option value="si" data-green="img/060-signing - GREE.png"
+                                        data-red="img/060-signing - RED.png"
+                                        data-blue="img/060-signing - BLU.png"
+                                        data-orange="img/060-signing - OR.png"
+                                        data-black="img/signing.png"
+                                        data-thumbnail="img/signing.png"
                                         class="rounded-circle"></option>
                                     <option value="cn"
-                                        data-green="https://cerapoda.com/zuzu/img/013-microphone - GREE.png"
-                                        data-red="https://cerapoda.com/zuzu/img/013-microphone - RED.png"
-                                        data-blue="https://cerapoda.com/zuzu/img/013-microphone - BL.png"
-                                        data-orange="https://cerapoda.com/zuzu/img/013-microphone - OR.png"
-                                        data-black="https://cerapoda.com/zuzu/img/microphone.png"
-                                        data-thumbnail="https://cerapoda.com/zuzu/img/microphone.png"
+                                        data-green="img/013-microphone - GREE.png"
+                                        data-red="img/013-microphone - RED.png"
+                                        data-blue="img/013-microphone - BL.png"
+                                        data-orange="img/013-microphone - OR.png"
+                                        data-black="img/microphone.png"
+                                        data-thumbnail="img/microphone.png"
                                         class="rounded-circle"></option>
-                                    <option value="ide" data-green="https://cerapoda.com/zuzu/img/018-idea - GREE.png"
-                                        data-red="https://cerapoda.com/zuzu/img/018-idea - RED.png"
-                                        data-blue="https://cerapoda.com/zuzu/img/018-idea - BL.png"
-                                        data-orange="https://cerapoda.com/zuzu/img/018-idea - or.png"
-                                        data-black="https://cerapoda.com/zuzu/img/idea.png"
-                                        data-thumbnail="https://cerapoda.com/zuzu/img/idea.png" class="rounded-circle">
+                                    <option value="ide" data-green="img/018-idea - GREE.png"
+                                        data-red="img/018-idea - RED.png"
+                                        data-blue="img/018-idea - BL.png"
+                                        data-orange="img/018-idea - or.png"
+                                        data-black="img/idea.png"
+                                        data-thumbnail="img/idea.png" class="rounded-circle">
                                     </option>
-                                    <option value="re" data-green="https://cerapoda.com/zuzu/img/034-reward - GREE.png"
-                                        data-red="https://cerapoda.com/zuzu/img/034-reward - RED.png"
-                                        data-blue="https://cerapoda.com/zuzu/img/034-reward - BL.png"
-                                        data-orange="https://cerapoda.com/zuzu/img/034-reward - OR.png"
-                                        data-black="https://cerapoda.com/zuzu/img/reward.png"
-                                        data-thumbnail="https://cerapoda.com/zuzu/img/reward.png"
+                                    <option value="re" data-green="img/034-reward - GREE.png"
+                                        data-red="img/034-reward - RED.png"
+                                        data-blue="img/034-reward - BL.png"
+                                        data-orange="img/034-reward - OR.png"
+                                        data-black="img/reward.png"
+                                        data-thumbnail="img/reward.png"
                                         class="rounded-circle"></option>
                                     <option value="com"
-                                        data-green="https://cerapoda.com/zuzu/img/092-cloud-computing - GREE.png"
-                                        data-red="https://cerapoda.com/zuzu/img/092-cloud-computing - RED.png"
-                                        data-blue="https://cerapoda.com/zuzu/img/092-cloud-computing - BL.png"
-                                        data-orange="https://cerapoda.com/zuzu/img/092-cloud-computing - OR.png"
-                                        data-black="https://cerapoda.com/zuzu/img/cloud-computing.png"
-                                        data-thumbnail="https://cerapoda.com/zuzu/img/cloud-computing.png"
+                                        data-green="img/092-cloud-computing - GREE.png"
+                                        data-red="img/092-cloud-computing - RED.png"
+                                        data-blue="img/092-cloud-computing - BL.png"
+                                        data-orange="img/092-cloud-computing - OR.png"
+                                        data-black="img/cloud-computing.png"
+                                        data-thumbnail="img/cloud-computing.png"
                                         class="rounded-circle"></option>
                                     <option value="cla"
-                                        data-green="https://cerapoda.com/zuzu/img/021-clapperboard -GREE.png"
-                                        data-red="https://cerapoda.com/zuzu/img/021-clapperboard - RED.png"
-                                        data-blue="https://cerapoda.com/zuzu/img/021-clapperboard BL.png"
-                                        data-orange="https://cerapoda.com/zuzu/img/021-clapperboard - OR.png"
-                                        data-black="https://cerapoda.com/zuzu/img/clapperboard.png"
-                                        data-thumbnail="https://cerapoda.com/zuzu/img/clapperboard.png"
+                                        data-green="img/021-clapperboard -GREE.png"
+                                        data-red="img/021-clapperboard - RED.png"
+                                        data-blue="img/021-clapperboard BL.png"
+                                        data-orange="img/021-clapperboard - OR.png"
+                                        data-black="img/clapperboard.png"
+                                        data-thumbnail="img/clapperboard.png"
                                         class="rounded-circle"></option>
                                     <option value="cha"
-                                        data-green="https://cerapoda.com/zuzu/img/062-chatting-1 - GRE.png"
-                                        data-red="https://cerapoda.com/zuzu/img/062-chatting-1 - RED.png"
-                                        data-blue="https://cerapoda.com/zuzu/img/062-chatting-1 - BL.png"
-                                        data-orange="https://cerapoda.com/zuzu/img/062-chatting-1 - OR.png"
-                                        data-black="https://cerapoda.com/zuzu/img/chatting.png"
-                                        data-thumbnail="https://cerapoda.com/zuzu/img/chatting.png"
+                                        data-green="img/062-chatting-1 - GRE.png"
+                                        data-red="img/062-chatting-1 - RED.png"
+                                        data-blue="img/062-chatting-1 - BL.png"
+                                        data-orange="img/062-chatting-1 - OR.png"
+                                        data-black="img/chatting.png"
+                                        data-thumbnail="img/chatting.png"
                                         class="rounded-circle"></option>
-                                    <option value="ch" data-green="https://cerapoda.com/zuzu/img/080-chains - GREE.png"
-                                        data-red="https://cerapoda.com/zuzu/img/080-chains - RED.png"
-                                        data-blue="https://cerapoda.com/zuzu/img/080-chains - BLU.png"
-                                        data-orange="https://cerapoda.com/zuzu/img/080-chains - ORANG.png"
-                                        data-black="https://cerapoda.com/zuzu/img/chains.png"
-                                        data-thumbnail="https://cerapoda.com/zuzu/img/chains.png"
+                                    <option value="ch" data-green="img/080-chains - GREE.png"
+                                        data-red="img/080-chains - RED.png"
+                                        data-blue="img/080-chains - BLU.png"
+                                        data-orange="img/080-chains - ORANG.png"
+                                        data-black="img/chains.png"
+                                        data-thumbnail="img/chains.png"
                                         class="rounded-circle"></option>
                                 </select>
 

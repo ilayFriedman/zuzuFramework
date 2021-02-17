@@ -202,7 +202,7 @@ editor.addNode('dbclick', 1, 1, 50, 100, 'dbclick', { name: ''}, dbclick );
 		n2=n2+170;
         $flag=0;
 		var divtext=$('#divtext').val();
-		var dbclick = '<div class=\"work-flow\"><ul class=\"list-unstyled list-inline\"> <li class=\"square-box\"><div class=\"divtext\">No Text</div><span class=\"divimg\" val=\"en\"><img src=\"https://cerapoda.com/zuzu/img/reward.png\" alt="" value="en" style="margin: 3px; max-height: 30px;"></span></li></ul></div><a href=\"javascript:void(0)\"  data-backdrop=\"static\"  class="orange"><span class=\"orange-plus\"><i class=\"simple-icon-plus\"></i></span></a> <a href=\"javascript:void(0)\" class="blue" onmousedown="return false"><span class=\"blue-plus\" onmousedown="return false"><i class=\"simple-icon-plus\"></i></span></a>';
+		var dbclick = '<div class=\"work-flow\"><ul class=\"list-unstyled list-inline\"> <li class=\"square-box\"><div class=\"divtext\">No Text</div><span class=\"divimg\" val=\"en\"><img src=\"img/reward.png\" alt="" value="en" style="margin: 3px; max-height: 30px;"></span></li></ul></div><a href=\"javascript:void(0)\"  data-backdrop=\"static\"  class="orange"><span class=\"orange-plus\"><i class=\"simple-icon-plus\"></i></span></a> <a href=\"javascript:void(0)\" class="blue" onmousedown="return false"><span class=\"blue-plus\" onmousedown="return false"><i class=\"simple-icon-plus\"></i></span></a>';
        $(this).attr('lastn1',n1);
        $(this).attr('lastn2',n2);
 		topbot1=$(this).closest('.drawflow-node').attr('style');
@@ -277,7 +277,7 @@ editor.addNode('dbclick', 1, 1, 50, 100, 'dbclick', { name: ''}, dbclick );
 		$('body').on('click','.blue-div a',function(e){
 		lastidflag=0;
 		$nodethis=$(this).closest('.drawflow-node').attr('id');
-		$ingpath='https://cerapoda.com/zuzu/img/reward.png';
+		$ingpath='img/reward.png';
 		colorcode=$('.colorpicker').val();
 		if(colorcode){
 			$ingpath=$('.vodiapicker [value=en]').attr('data-'+colorcode);
