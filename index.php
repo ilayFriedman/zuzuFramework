@@ -70,7 +70,7 @@
                         </a>
                     </li>
                     <!--<li>
-                        <a href="https://cerapoda.com/zuzu/sample-6.php" target="">
+                        <a href="sample-6.php" target="">
                             <img src="img/star.svg">
                         </a>
                     </li>-->
@@ -139,7 +139,7 @@
                                 </li>
                                 <?php /*
 								<li>
-                                    <a href="https://cerapoda.com/zuzu/sample-6.php">
+                                    <a href="sample-6.php">
                                        <span class="d-inline-block">Traffic Report</span>
                                     </a>
                                 </li>*/?>

@@ -74,12 +74,12 @@
                 </ul>
                <ul class="list-unstyled bottom-menu">
                     <li class="dashboardclick">
-                         <a href="https://cerapoda.com/zuzu/teacher-panels.html" target="_blank">
+                         <a href="teacher-panels.html" target="_blank">
                             <img src="img/graph.svg">
                         </a>
                     </li>
                      <li class="dashboardclick">
-                         <a href="https://cerapoda.com/zuzu/" target="_blank">
+                         <a href="" target="_blank">
                             <img src="img/setting.svg">
                         </a>
                     </li>
